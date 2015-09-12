@@ -1,0 +1,14 @@
+/* custom CSS for dwa-15 p1 */
+
+img {
+  box-shadow: 2px 2px 5px #888;
+}
+
+.container .jumbotron, .container-fluid .jumbotron {
+  border-radius: 0px;
+  box-shadow: 2px 2px 5px #888;
+}
+
+.nav-pills>li>a {
+  border-radius: 0px;
+}
