@@ -9,7 +9,7 @@ A brief description of who I am, and why I am taking [DWA-15](https://www.extens
 
 ## Details for teaching team
 No login required.
-Placeholder links set up yet for future projects.
+Placeholder links for future projects.
 
 ## Outside code
 * Bootstrap: <http://getbootstrap.com/>
