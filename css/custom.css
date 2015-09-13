@@ -1,14 +1,45 @@
 /* custom CSS for dwa-15 p1 */
 
-img {
-  box-shadow: 2px 2px 5px #888;
+body {
+  background-color: #eee;
 }
 
+img, .well {
+  box-shadow: 2px 2px 5px #222;
+}
+
+ul {
+  list-style-type: none;
+}
 .container .jumbotron, .container-fluid .jumbotron {
   border-radius: 0px;
   box-shadow: 2px 2px 5px #888;
+  background-color: #333;
+  color: #fff;
 }
 
 .nav-pills>li>a {
   border-radius: 0px;
+}
+
+.well {
+  border-radius: 0px;
+  box-shadow: 2px 2px 5px #888;
+  border: none;
+  background-color: #fff;
+  color: #000;
+
+}
+
+.well h3 {
+  margin-top: 10px;
+}
+
+.marketing {
+  border-radius: 0px;
+  box-shadow: 2px 2px 5px #888;
+  border: none;
+  background-color: #aaa;
+  color: #000;
+
 }
