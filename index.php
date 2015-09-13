@@ -47,7 +47,7 @@
           <p>I have been working as a TV director in the Boston market for 20 years. Having seen technology change both how shows are made and how they are delivered to the customers in that time, I am back in school because I want to be on the front lines of the new technologies and not left beind.</p>
 
           <h4>Why are you taking this course?</h4>
-          <p>I have some knowledge of HTML, CSS, and Javascript, but would like to understand more about the server side of web development. I had to learn a tiny bit of PHP for a Wordpress site in <a href="https://www.extension.harvard.edu/academics/courses/introduction-web-content-management-systems-site-development/24048">DGMD E-25</a>, and would like to learn a lot more.</p>
+          <p>I have some knowledge of HTML, CSS, and Javascript, but would like to understand more about the server side of web development. I had to learn a tiny bit of PHP for a Wordpress site in <a href="https://www.extension.harvard.edu/academics/courses/introduction-web-content-management-systems-site-development/24048">DGMD E-25</a> and would like to learn a lot more.</p>
 
           <h4>What previous experience do you have with programming?</h4>
           <p>I programmed on my Commodore 64 as a child, but never was too serious with it. I had a concentration in CS as an undergrad (20 years ago), but my career took me away from the programming side of computers. I have taken <a href="https://www.extension.harvard.edu/academics/courses/introduction-computer-science-using-java-i/14289">CSCI E-10A</a> and <a href="https://www.extension.harvard.edu/academics/courses/introduction-computer-science-using-java-ii/24027">CSCI E-10B</a> at Harvard Extension School as part of Digital Media Arts Master's Program. </p>

@@ -17,6 +17,7 @@ ul {
   box-shadow: 2px 2px 5px #888;
   background-color: #333;
   color: #fff;
+  padding: 10px;
 }
 
 .nav-pills>li>a {
@@ -47,4 +48,5 @@ ul {
 .social-links > a > img {
   max-height: 50px;
   width: auto;
+  margin-bottom: 10px;
 }
