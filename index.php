@@ -34,7 +34,7 @@
       </div>
 
       <div class="jumbotron">
-        <img class="img-responsive" src="img/ProfileImage960x720.jpeg">
+        <img class="img-responsive" src="img/ProfileImage960x720.jpeg" alt="picture of Philip Kelnhofer">
         <h1>DWA-15 Portfolio</h1>
         <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
       </div>
