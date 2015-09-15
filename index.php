@@ -34,9 +34,9 @@
         <div class="col-lg-12 well">
           <h3>Project Links</h3>
           <ul>
-            <li>P2 - <a href="#">Website</a> - <a href="#">Github</a></li>
-            <li>P3 - <a href="#">Website</a> - <a href="#">Github</a></li>
-            <li>P4 - <a href="#">Website</a> - <a href="#">Github</a></li>
+            <li>P2 - <a href="http://p2.philipjames.me/">Website</a> - <a href="https://github.com/philipjamesk/p2">Github</a></li>
+            <li>P3 - <a href="http://p3.philipjames.me/">Website</a> - <a href="https://github.com/philipjamesk/p3">Github</a></li>
+            <li>P4 - <a href="http://p4.philipjames.me/">Website</a> - <a href="https://github.com/philipjamesk/p4">Github</a></li>
           </ul>
         </div>
 
